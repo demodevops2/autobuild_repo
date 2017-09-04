@@ -1,2 +1,2 @@
 #/bin/bash
-echo "testing auto build"
+echo "updated testing auto build"
