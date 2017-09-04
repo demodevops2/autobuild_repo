@@ -1,2 +1,2 @@
 #/bin/bash
-echo "updated testing auto build"
+echo "now aws server testing auto build"
