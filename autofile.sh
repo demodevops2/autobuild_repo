@@ -1,2 +1,4 @@
 #/bin/bash
-sudo touch file{1..4}
+for i in a b c d e f g; do
+   touch $i.txt
+done
