@@ -1,2 +1,2 @@
 #/bin/bash
-echo "now aws server testing auto build"
+sudo touch file{1..4}
