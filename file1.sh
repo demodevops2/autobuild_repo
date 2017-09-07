@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-touch file{1..4}.txt
+touch file{5..8}.txt
